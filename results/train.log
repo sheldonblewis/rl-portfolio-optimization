@@ -1,0 +1,482 @@
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.69 val_sharpe=0.66
+dpo seed=0 risk=5.0 it=50 train_sharpe=0.71 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=50 train_sharpe=0.76 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=50 train_sharpe=0.74 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.69 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.65 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.75 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=100 train_sharpe=0.77 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.73 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.68 val_sharpe=0.66
+dpo seed=0 risk=5.0 it=100 train_sharpe=0.87 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=100 train_sharpe=0.83 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.79 val_sharpe=0.68
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.68 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=150 train_sharpe=0.80 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.74 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=150 train_sharpe=0.88 val_sharpe=0.66
+dpo seed=0 risk=5.0 it=150 train_sharpe=0.94 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.81 val_sharpe=0.69
+dpo seed=0 risk=5.0 it=200 train_sharpe=0.82 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.69 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.78 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=200 train_sharpe=0.92 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=200 train_sharpe=1.00 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.85 val_sharpe=0.69
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.72 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=250 train_sharpe=0.83 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.86 val_sharpe=0.62
+dpo seed=0 risk=5.0 it=250 train_sharpe=0.95 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=250 train_sharpe=1.05 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=300 train_sharpe=0.85 val_sharpe=0.70
+dpo seed=0 risk=1.0 it=300 train_sharpe=0.72 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=300 train_sharpe=0.83 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=300 train_sharpe=0.92 val_sharpe=0.60
+dpo seed=0 risk=5.0 it=300 train_sharpe=0.97 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=300 train_sharpe=1.08 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=350 train_sharpe=0.88 val_sharpe=0.70
+dpo seed=0 risk=1.0 it=350 train_sharpe=0.74 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=350 train_sharpe=0.99 val_sharpe=0.57
+dpo seed=0 risk=5.0 it=350 train_sharpe=0.84 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=350 train_sharpe=1.12 val_sharpe=0.66
+dpo seed=0 risk=5.0 it=350 train_sharpe=0.99 val_sharpe=0.68
+dpo seed=0 risk=1.0 it=400 train_sharpe=0.95 val_sharpe=0.69
+dpo seed=0 risk=1.0 it=400 train_sharpe=0.77 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=400 train_sharpe=1.06 val_sharpe=0.54
+dpo seed=0 risk=5.0 it=400 train_sharpe=0.86 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=400 train_sharpe=1.15 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=400 train_sharpe=1.01 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=450 train_sharpe=0.99 val_sharpe=0.68
+dpo seed=0 risk=1.0 it=450 train_sharpe=0.79 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=450 train_sharpe=1.12 val_sharpe=0.50
+dpo seed=0 risk=5.0 it=450 train_sharpe=0.88 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=450 train_sharpe=1.18 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=450 train_sharpe=1.04 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=500 train_sharpe=1.03 val_sharpe=0.68
+dpo seed=0 risk=1.0 it=500 train_sharpe=0.82 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=500 train_sharpe=1.19 val_sharpe=0.47
+dpo seed=0 risk=5.0 it=500 train_sharpe=0.89 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=500 train_sharpe=1.20 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=500 train_sharpe=1.06 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=550 train_sharpe=1.05 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=550 train_sharpe=1.26 val_sharpe=0.42
+dpo seed=0 risk=1.0 it=550 train_sharpe=0.84 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=550 train_sharpe=0.91 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=550 train_sharpe=1.21 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=550 train_sharpe=1.09 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=600 train_sharpe=1.08 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=600 train_sharpe=0.86 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=600 train_sharpe=1.32 val_sharpe=0.38
+dpo seed=0 risk=5.0 it=600 train_sharpe=0.91 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=600 train_sharpe=1.23 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=600 train_sharpe=1.11 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=650 train_sharpe=1.10 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=650 train_sharpe=0.88 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=650 train_sharpe=1.37 val_sharpe=0.33
+dpo seed=0 risk=5.0 it=650 train_sharpe=0.93 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=650 train_sharpe=1.26 val_sharpe=0.68
+dpo seed=0 risk=5.0 it=650 train_sharpe=1.13 val_sharpe=0.67
+dpo seed=0 risk=1.0 it=700 train_sharpe=1.14 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=700 train_sharpe=0.91 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=700 train_sharpe=1.41 val_sharpe=0.30
+dpo seed=0 risk=5.0 it=700 train_sharpe=1.29 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=700 train_sharpe=0.94 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=700 train_sharpe=1.15 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=750 train_sharpe=1.16 val_sharpe=0.59
+dpo seed=0 risk=1.0 it=750 train_sharpe=0.92 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=750 train_sharpe=1.44 val_sharpe=0.28
+dpo seed=0 risk=5.0 it=750 train_sharpe=0.94 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=750 train_sharpe=1.31 val_sharpe=0.66
+dpo seed=0 risk=5.0 it=750 train_sharpe=1.16 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=800 train_sharpe=1.19 val_sharpe=0.58
+dpo seed=0 risk=1.0 it=800 train_sharpe=0.93 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=800 train_sharpe=1.47 val_sharpe=0.24
+dpo seed=0 risk=5.0 it=800 train_sharpe=0.94 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=800 train_sharpe=1.33 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=800 train_sharpe=1.18 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=850 train_sharpe=1.19 val_sharpe=0.57
+dpo seed=0 risk=1.0 it=850 train_sharpe=0.94 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=850 train_sharpe=1.49 val_sharpe=0.23
+dpo seed=0 risk=5.0 it=850 train_sharpe=0.94 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=850 train_sharpe=1.36 val_sharpe=0.67
+dpo seed=0 risk=5.0 it=850 train_sharpe=1.19 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=900 train_sharpe=1.20 val_sharpe=0.55
+dpo seed=0 risk=1.0 it=900 train_sharpe=0.94 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=900 train_sharpe=1.51 val_sharpe=0.21
+dpo seed=0 risk=5.0 it=900 train_sharpe=0.95 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=900 train_sharpe=1.39 val_sharpe=0.65
+dpo seed=0 risk=5.0 it=900 train_sharpe=1.19 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=950 train_sharpe=1.24 val_sharpe=0.55
+dpo seed=0 risk=1.0 it=950 train_sharpe=0.95 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=950 train_sharpe=1.53 val_sharpe=0.21
+dpo seed=0 risk=5.0 it=950 train_sharpe=0.95 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=950 train_sharpe=1.42 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=950 train_sharpe=1.21 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1000 train_sharpe=1.28 val_sharpe=0.53
+dpo seed=0 risk=1.0 it=1000 train_sharpe=0.98 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1000 train_sharpe=1.54 val_sharpe=0.20
+dpo seed=0 risk=5.0 it=1000 train_sharpe=0.96 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1000 train_sharpe=1.45 val_sharpe=0.63
+dpo seed=0 risk=5.0 it=1000 train_sharpe=1.23 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=1050 train_sharpe=1.27 val_sharpe=0.54
+dpo seed=0 risk=1.0 it=1050 train_sharpe=0.98 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=1050 train_sharpe=1.56 val_sharpe=0.18
+dpo seed=0 risk=5.0 it=1050 train_sharpe=0.96 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1050 train_sharpe=1.46 val_sharpe=0.62
+dpo seed=0 risk=5.0 it=1050 train_sharpe=1.24 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=1100 train_sharpe=1.33 val_sharpe=0.51
+dpo seed=0 risk=1.0 it=1100 train_sharpe=1.00 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1100 train_sharpe=1.57 val_sharpe=0.17
+dpo seed=0 risk=5.0 it=1100 train_sharpe=0.97 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1100 train_sharpe=1.50 val_sharpe=0.61
+dpo seed=0 risk=5.0 it=1100 train_sharpe=1.27 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1150 train_sharpe=1.34 val_sharpe=0.52
+dpo seed=0 risk=1.0 it=1150 train_sharpe=1.01 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1150 train_sharpe=1.59 val_sharpe=0.15
+dpo seed=0 risk=5.0 it=1150 train_sharpe=0.97 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1150 train_sharpe=1.52 val_sharpe=0.61
+dpo seed=0 risk=5.0 it=1150 train_sharpe=1.28 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=1200 train_sharpe=1.37 val_sharpe=0.51
+dpo seed=0 risk=1.0 it=1200 train_sharpe=1.02 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1200 train_sharpe=1.60 val_sharpe=0.15
+dpo seed=0 risk=5.0 it=1200 train_sharpe=0.97 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1200 train_sharpe=1.54 val_sharpe=0.60
+dpo seed=0 risk=5.0 it=1200 train_sharpe=1.31 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1250 train_sharpe=1.33 val_sharpe=0.54
+dpo seed=0 risk=1.0 it=1250 train_sharpe=1.01 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=1250 train_sharpe=1.62 val_sharpe=0.14
+dpo seed=0 risk=5.0 it=1250 train_sharpe=0.98 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1250 train_sharpe=1.55 val_sharpe=0.62
+dpo seed=0 risk=5.0 it=1250 train_sharpe=1.30 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1300 train_sharpe=1.38 val_sharpe=0.52
+dpo seed=0 risk=1.0 it=1300 train_sharpe=1.03 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=1300 train_sharpe=1.63 val_sharpe=0.13
+dpo seed=0 risk=5.0 it=1300 train_sharpe=0.98 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1300 train_sharpe=1.58 val_sharpe=0.61
+dpo seed=0 risk=5.0 it=1300 train_sharpe=1.33 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1350 train_sharpe=1.41 val_sharpe=0.53
+dpo seed=0 risk=1.0 it=1350 train_sharpe=1.03 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1350 train_sharpe=1.64 val_sharpe=0.12
+dpo seed=0 risk=5.0 it=1350 train_sharpe=0.98 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1350 train_sharpe=1.61 val_sharpe=0.61
+dpo seed=0 risk=5.0 it=1350 train_sharpe=1.35 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1400 train_sharpe=1.46 val_sharpe=0.51
+dpo seed=0 risk=1.0 it=1400 train_sharpe=1.04 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1400 train_sharpe=1.65 val_sharpe=0.12
+dpo seed=0 risk=5.0 it=1400 train_sharpe=0.98 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1400 train_sharpe=1.63 val_sharpe=0.61
+dpo seed=0 risk=5.0 it=1400 train_sharpe=1.39 val_sharpe=0.60
+dpo seed=0 risk=1.0 it=1450 train_sharpe=1.47 val_sharpe=0.51
+dpo seed=0 risk=1.0 it=1450 train_sharpe=1.06 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1450 train_sharpe=1.67 val_sharpe=0.12
+dpo seed=0 risk=5.0 it=1450 train_sharpe=1.00 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1450 train_sharpe=1.65 val_sharpe=0.60
+dpo seed=0 risk=5.0 it=1450 train_sharpe=1.42 val_sharpe=0.58
+dpo seed=0 risk=1.0 it=1500 train_sharpe=1.48 val_sharpe=0.50
+dpo seed=0 risk=1.0 it=1500 train_sharpe=1.06 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1500 train_sharpe=1.68 val_sharpe=0.12
+dpo seed=0 risk=5.0 it=1500 train_sharpe=0.99 val_sharpe=0.64
+dpo seed=0 risk=5.0 it=1500 train_sharpe=1.68 val_sharpe=0.60
+dpo seed=0 risk=5.0 it=1500 train_sharpe=1.45 val_sharpe=0.58
+chosen (risk, cost_mult) on validation: (1.0, 4.0) ({(1.0, 1.0): np.float64(0.6589168484803253), (1.0, 4.0): np.float64(0.7034038513575948), (1.0, 10.0): np.float64(0.6604460728501391), (5.0, 1.0): np.float64(0.6805892075838441), (5.0, 4.0): np.float64(0.6776253586106137), (5.0, 10.0): np.float64(0.6572902144537752)})
+dpo seed=2 risk=1.0 it=50 train_sharpe=0.65 val_sharpe=0.67
+dpo seed=4 risk=1.0 it=50 train_sharpe=0.61 val_sharpe=0.67
+dpo seed=1 risk=1.0 it=50 train_sharpe=0.70 val_sharpe=0.60
+dpo seed=3 risk=1.0 it=50 train_sharpe=0.71 val_sharpe=0.66
+ppo seed=1 it=10 train_sharpe=0.60 val_sharpe=0.57
+ppo seed=0 it=10 train_sharpe=0.62 val_sharpe=0.64
+dpo seed=2 risk=1.0 it=100 train_sharpe=0.73 val_sharpe=0.67
+dpo seed=1 risk=1.0 it=100 train_sharpe=0.75 val_sharpe=0.63
+dpo seed=3 risk=1.0 it=100 train_sharpe=0.76 val_sharpe=0.67
+dpo seed=4 risk=1.0 it=100 train_sharpe=0.70 val_sharpe=0.68
+dpo seed=2 risk=1.0 it=150 train_sharpe=0.81 val_sharpe=0.68
+dpo seed=1 risk=1.0 it=150 train_sharpe=0.77 val_sharpe=0.66
+dpo seed=3 risk=1.0 it=150 train_sharpe=0.80 val_sharpe=0.68
+dpo seed=4 risk=1.0 it=150 train_sharpe=0.78 val_sharpe=0.68
+ppo seed=1 it=20 train_sharpe=0.62 val_sharpe=0.57
+ppo seed=0 it=20 train_sharpe=0.64 val_sharpe=0.65
+dpo seed=2 risk=1.0 it=200 train_sharpe=0.86 val_sharpe=0.70
+dpo seed=3 risk=1.0 it=200 train_sharpe=0.83 val_sharpe=0.68
+dpo seed=1 risk=1.0 it=200 train_sharpe=0.81 val_sharpe=0.67
+dpo seed=4 risk=1.0 it=200 train_sharpe=0.80 val_sharpe=0.71
+ppo seed=1 it=30 train_sharpe=0.64 val_sharpe=0.58
+dpo seed=2 risk=1.0 it=250 train_sharpe=0.85 val_sharpe=0.72
+ppo seed=0 it=30 train_sharpe=0.64 val_sharpe=0.63
+dpo seed=3 risk=1.0 it=250 train_sharpe=0.88 val_sharpe=0.68
+dpo seed=1 risk=1.0 it=250 train_sharpe=0.83 val_sharpe=0.68
+dpo seed=4 risk=1.0 it=250 train_sharpe=0.86 val_sharpe=0.70
+dpo seed=2 risk=1.0 it=300 train_sharpe=0.95 val_sharpe=0.70
+dpo seed=3 risk=1.0 it=300 train_sharpe=0.90 val_sharpe=0.69
+dpo seed=1 risk=1.0 it=300 train_sharpe=0.89 val_sharpe=0.68
+dpo seed=4 risk=1.0 it=300 train_sharpe=0.87 val_sharpe=0.72
+ppo seed=1 it=40 train_sharpe=0.65 val_sharpe=0.58
+ppo seed=0 it=40 train_sharpe=0.67 val_sharpe=0.64
+dpo seed=2 risk=1.0 it=350 train_sharpe=0.94 val_sharpe=0.72
+dpo seed=3 risk=1.0 it=350 train_sharpe=0.95 val_sharpe=0.68
+dpo seed=1 risk=1.0 it=350 train_sharpe=0.92 val_sharpe=0.69
+dpo seed=4 risk=1.0 it=350 train_sharpe=0.91 val_sharpe=0.71
+dpo seed=2 risk=1.0 it=400 train_sharpe=1.01 val_sharpe=0.70
+dpo seed=3 risk=1.0 it=400 train_sharpe=0.99 val_sharpe=0.67
+dpo seed=1 risk=1.0 it=400 train_sharpe=0.97 val_sharpe=0.68
+dpo seed=4 risk=1.0 it=400 train_sharpe=0.95 val_sharpe=0.71
+ppo seed=1 it=50 train_sharpe=0.66 val_sharpe=0.59
+ppo seed=0 it=50 train_sharpe=0.71 val_sharpe=0.63
+dpo seed=2 risk=1.0 it=450 train_sharpe=1.00 val_sharpe=0.71
+dpo seed=3 risk=1.0 it=450 train_sharpe=1.01 val_sharpe=0.67
+dpo seed=1 risk=1.0 it=450 train_sharpe=1.01 val_sharpe=0.67
+dpo seed=4 risk=1.0 it=450 train_sharpe=0.98 val_sharpe=0.70
+ppo seed=1 it=60 train_sharpe=0.68 val_sharpe=0.59
+ppo seed=0 it=60 train_sharpe=0.73 val_sharpe=0.63
+dpo seed=2 risk=1.0 it=500 train_sharpe=1.08 val_sharpe=0.69
+dpo seed=3 risk=1.0 it=500 train_sharpe=1.04 val_sharpe=0.65
+dpo seed=1 risk=1.0 it=500 train_sharpe=1.07 val_sharpe=0.66
+dpo seed=4 risk=1.0 it=500 train_sharpe=0.95 val_sharpe=0.70
+dpo seed=2 risk=1.0 it=550 train_sharpe=1.07 val_sharpe=0.69
+dpo seed=3 risk=1.0 it=550 train_sharpe=1.04 val_sharpe=0.65
+dpo seed=4 risk=1.0 it=550 train_sharpe=1.00 val_sharpe=0.69
+dpo seed=1 risk=1.0 it=550 train_sharpe=1.08 val_sharpe=0.65
+ppo seed=1 it=70 train_sharpe=0.70 val_sharpe=0.59
+ppo seed=0 it=70 train_sharpe=0.75 val_sharpe=0.63
+dpo seed=2 risk=1.0 it=600 train_sharpe=1.08 val_sharpe=0.69
+dpo seed=3 risk=1.0 it=600 train_sharpe=1.04 val_sharpe=0.64
+dpo seed=4 risk=1.0 it=600 train_sharpe=1.01 val_sharpe=0.69
+dpo seed=1 risk=1.0 it=600 train_sharpe=1.11 val_sharpe=0.64
+dpo seed=2 risk=1.0 it=650 train_sharpe=1.11 val_sharpe=0.68
+dpo seed=3 risk=1.0 it=650 train_sharpe=1.10 val_sharpe=0.62
+dpo seed=4 risk=1.0 it=650 train_sharpe=1.03 val_sharpe=0.68
+dpo seed=1 risk=1.0 it=650 train_sharpe=1.12 val_sharpe=0.64
+ppo seed=0 it=80 train_sharpe=0.77 val_sharpe=0.62
+ppo seed=1 it=80 train_sharpe=0.71 val_sharpe=0.58
+dpo seed=2 risk=1.0 it=700 train_sharpe=1.13 val_sharpe=0.66
+dpo seed=3 risk=1.0 it=700 train_sharpe=1.13 val_sharpe=0.62
+dpo seed=4 risk=1.0 it=700 train_sharpe=1.04 val_sharpe=0.67
+dpo seed=1 risk=1.0 it=700 train_sharpe=1.15 val_sharpe=0.63
+ppo seed=1 it=90 train_sharpe=0.72 val_sharpe=0.58
+ppo seed=0 it=90 train_sharpe=0.77 val_sharpe=0.61
+dpo seed=2 risk=1.0 it=750 train_sharpe=1.17 val_sharpe=0.64
+dpo seed=3 risk=1.0 it=750 train_sharpe=1.14 val_sharpe=0.61
+dpo seed=4 risk=1.0 it=750 train_sharpe=1.08 val_sharpe=0.64
+dpo seed=1 risk=1.0 it=750 train_sharpe=1.17 val_sharpe=0.62
+dpo seed=2 risk=1.0 it=800 train_sharpe=1.21 val_sharpe=0.62
+dpo seed=3 risk=1.0 it=800 train_sharpe=1.18 val_sharpe=0.59
+dpo seed=1 risk=1.0 it=800 train_sharpe=1.19 val_sharpe=0.60
+dpo seed=4 risk=1.0 it=800 train_sharpe=1.05 val_sharpe=0.64
+ppo seed=1 it=100 train_sharpe=0.75 val_sharpe=0.57
+ppo seed=0 it=100 train_sharpe=0.79 val_sharpe=0.60
+dpo seed=2 risk=1.0 it=850 train_sharpe=1.20 val_sharpe=0.62
+dpo seed=3 risk=1.0 it=850 train_sharpe=1.17 val_sharpe=0.59
+dpo seed=1 risk=1.0 it=850 train_sharpe=1.25 val_sharpe=0.58
+dpo seed=4 risk=1.0 it=850 train_sharpe=1.09 val_sharpe=0.61
+dpo seed=2 risk=1.0 it=900 train_sharpe=1.26 val_sharpe=0.60
+dpo seed=3 risk=1.0 it=900 train_sharpe=1.20 val_sharpe=0.56
+dpo seed=1 risk=1.0 it=900 train_sharpe=1.18 val_sharpe=0.59
+dpo seed=4 risk=1.0 it=900 train_sharpe=1.13 val_sharpe=0.60
+ppo seed=1 it=110 train_sharpe=0.76 val_sharpe=0.57
+ppo seed=0 it=110 train_sharpe=0.79 val_sharpe=0.59
+dpo seed=2 risk=1.0 it=950 train_sharpe=1.24 val_sharpe=0.60
+dpo seed=3 risk=1.0 it=950 train_sharpe=1.21 val_sharpe=0.55
+dpo seed=1 risk=1.0 it=950 train_sharpe=1.27 val_sharpe=0.55
+dpo seed=4 risk=1.0 it=950 train_sharpe=1.14 val_sharpe=0.59
+ppo seed=1 it=120 train_sharpe=0.77 val_sharpe=0.56
+ppo seed=0 it=120 train_sharpe=0.80 val_sharpe=0.58
+dpo seed=2 risk=1.0 it=1000 train_sharpe=1.27 val_sharpe=0.59
+dpo seed=3 risk=1.0 it=1000 train_sharpe=1.23 val_sharpe=0.54
+dpo seed=1 risk=1.0 it=1000 train_sharpe=1.29 val_sharpe=0.55
+dpo seed=4 risk=1.0 it=1000 train_sharpe=1.15 val_sharpe=0.58
+dpo seed=2 risk=1.0 it=1050 train_sharpe=1.30 val_sharpe=0.58
+dpo seed=3 risk=1.0 it=1050 train_sharpe=1.24 val_sharpe=0.52
+dpo seed=1 risk=1.0 it=1050 train_sharpe=1.33 val_sharpe=0.53
+dpo seed=4 risk=1.0 it=1050 train_sharpe=1.17 val_sharpe=0.57
+ppo seed=1 it=130 train_sharpe=0.79 val_sharpe=0.57
+ppo seed=0 it=130 train_sharpe=0.81 val_sharpe=0.58
+dpo seed=2 risk=1.0 it=1100 train_sharpe=1.29 val_sharpe=0.58
+dpo seed=3 risk=1.0 it=1100 train_sharpe=1.26 val_sharpe=0.52
+dpo seed=1 risk=1.0 it=1100 train_sharpe=1.35 val_sharpe=0.53
+dpo seed=4 risk=1.0 it=1100 train_sharpe=1.23 val_sharpe=0.54
+dpo seed=2 risk=1.0 it=1150 train_sharpe=1.30 val_sharpe=0.57
+dpo seed=3 risk=1.0 it=1150 train_sharpe=1.29 val_sharpe=0.50
+dpo seed=1 risk=1.0 it=1150 train_sharpe=1.37 val_sharpe=0.52
+dpo seed=4 risk=1.0 it=1150 train_sharpe=1.22 val_sharpe=0.53
+ppo seed=0 it=140 train_sharpe=0.82 val_sharpe=0.57
+ppo seed=1 it=140 train_sharpe=0.80 val_sharpe=0.57
+dpo seed=2 risk=1.0 it=1200 train_sharpe=1.31 val_sharpe=0.56
+dpo seed=3 risk=1.0 it=1200 train_sharpe=1.29 val_sharpe=0.50
+dpo seed=1 risk=1.0 it=1200 train_sharpe=1.42 val_sharpe=0.49
+dpo seed=4 risk=1.0 it=1200 train_sharpe=1.28 val_sharpe=0.52
+ppo seed=0 it=150 train_sharpe=0.82 val_sharpe=0.57
+ppo seed=1 it=150 train_sharpe=0.82 val_sharpe=0.57
+dpo seed=2 risk=1.0 it=1250 train_sharpe=1.35 val_sharpe=0.55
+dpo seed=3 risk=1.0 it=1250 train_sharpe=1.32 val_sharpe=0.47
+dpo seed=1 risk=1.0 it=1250 train_sharpe=1.48 val_sharpe=0.48
+dpo seed=4 risk=1.0 it=1250 train_sharpe=1.31 val_sharpe=0.50
+dpo seed=2 risk=1.0 it=1300 train_sharpe=1.38 val_sharpe=0.53
+dpo seed=3 risk=1.0 it=1300 train_sharpe=1.36 val_sharpe=0.46
+dpo seed=1 risk=1.0 it=1300 train_sharpe=1.50 val_sharpe=0.46
+dpo seed=4 risk=1.0 it=1300 train_sharpe=1.33 val_sharpe=0.47
+ppo seed=0 it=160 train_sharpe=0.82 val_sharpe=0.57
+ppo seed=1 it=160 train_sharpe=0.83 val_sharpe=0.57
+dpo seed=2 risk=1.0 it=1350 train_sharpe=1.38 val_sharpe=0.53
+dpo seed=3 risk=1.0 it=1350 train_sharpe=1.40 val_sharpe=0.43
+dpo seed=1 risk=1.0 it=1350 train_sharpe=1.53 val_sharpe=0.48
+dpo seed=4 risk=1.0 it=1350 train_sharpe=1.36 val_sharpe=0.46
+dpo seed=2 risk=1.0 it=1400 train_sharpe=1.40 val_sharpe=0.52
+dpo seed=3 risk=1.0 it=1400 train_sharpe=1.42 val_sharpe=0.40
+dpo seed=1 risk=1.0 it=1400 train_sharpe=1.57 val_sharpe=0.47
+dpo seed=4 risk=1.0 it=1400 train_sharpe=1.38 val_sharpe=0.45
+ppo seed=1 it=170 train_sharpe=0.83 val_sharpe=0.56
+ppo seed=0 it=170 train_sharpe=0.82 val_sharpe=0.56
+dpo seed=2 risk=1.0 it=1450 train_sharpe=1.41 val_sharpe=0.51
+dpo seed=3 risk=1.0 it=1450 train_sharpe=1.45 val_sharpe=0.38
+dpo seed=1 risk=1.0 it=1450 train_sharpe=1.56 val_sharpe=0.48
+dpo seed=4 risk=1.0 it=1450 train_sharpe=1.40 val_sharpe=0.45
+ppo seed=0 it=180 train_sharpe=0.83 val_sharpe=0.55
+ppo seed=1 it=180 train_sharpe=0.83 val_sharpe=0.56
+dpo seed=2 risk=1.0 it=1500 train_sharpe=1.41 val_sharpe=0.51
+dpo seed=3 risk=1.0 it=1500 train_sharpe=1.46 val_sharpe=0.37
+dpo seed=1 risk=1.0 it=1500 train_sharpe=1.58 val_sharpe=0.48
+dpo seed=4 risk=1.0 it=1500 train_sharpe=1.42 val_sharpe=0.44
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.73 val_sharpe=0.71
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.59 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=50 train_sharpe=0.50 val_sharpe=0.58
+ppo seed=0 it=190 train_sharpe=0.83 val_sharpe=0.54
+ppo seed=1 it=190 train_sharpe=0.82 val_sharpe=0.56
+ppo seed=2 it=10 train_sharpe=0.56 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.77 val_sharpe=0.74
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.60 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=100 train_sharpe=0.50 val_sharpe=0.60
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.82 val_sharpe=0.77
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.60 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=150 train_sharpe=0.51 val_sharpe=0.60
+ppo seed=0 it=200 train_sharpe=0.83 val_sharpe=0.55
+ppo seed=1 it=200 train_sharpe=0.81 val_sharpe=0.56
+ppo seed=2 it=20 train_sharpe=0.57 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.89 val_sharpe=0.77
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.61 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=200 train_sharpe=0.51 val_sharpe=0.60
+ppo seed=0 it=210 train_sharpe=0.84 val_sharpe=0.54
+ppo seed=1 it=210 train_sharpe=0.82 val_sharpe=0.55
+ppo seed=2 it=30 train_sharpe=0.58 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.97 val_sharpe=0.76
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.63 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=250 train_sharpe=0.51 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=300 train_sharpe=1.03 val_sharpe=0.76
+dpo seed=0 risk=1.0 it=300 train_sharpe=0.62 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=300 train_sharpe=0.51 val_sharpe=0.61
+ppo seed=0 it=220 train_sharpe=0.84 val_sharpe=0.54
+ppo seed=1 it=220 train_sharpe=0.82 val_sharpe=0.55
+ppo seed=2 it=40 train_sharpe=0.60 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=350 train_sharpe=1.11 val_sharpe=0.75
+dpo seed=0 risk=1.0 it=350 train_sharpe=0.63 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=350 train_sharpe=0.52 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=400 train_sharpe=1.18 val_sharpe=0.71
+dpo seed=0 risk=1.0 it=400 train_sharpe=0.65 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=400 train_sharpe=0.53 val_sharpe=0.61
+ppo seed=0 it=230 train_sharpe=0.84 val_sharpe=0.54
+ppo seed=1 it=230 train_sharpe=0.83 val_sharpe=0.54
+ppo seed=2 it=50 train_sharpe=0.62 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=450 train_sharpe=1.24 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=450 train_sharpe=0.66 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=450 train_sharpe=0.53 val_sharpe=0.61
+ppo seed=0 it=240 train_sharpe=0.85 val_sharpe=0.55
+ppo seed=1 it=240 train_sharpe=0.84 val_sharpe=0.54
+ppo seed=2 it=60 train_sharpe=0.63 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=500 train_sharpe=1.31 val_sharpe=0.60
+dpo seed=0 risk=1.0 it=500 train_sharpe=0.68 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=500 train_sharpe=0.54 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=550 train_sharpe=1.38 val_sharpe=0.54
+dpo seed=0 risk=1.0 it=550 train_sharpe=0.69 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=550 train_sharpe=0.54 val_sharpe=0.61
+ppo seed=0 it=250 train_sharpe=0.85 val_sharpe=0.55
+ppo seed=1 it=250 train_sharpe=0.84 val_sharpe=0.54
+ppo seed=2 it=70 train_sharpe=0.64 val_sharpe=0.66
+dpo seed=0 risk=1.0 it=600 train_sharpe=1.44 val_sharpe=0.48
+dpo seed=0 risk=1.0 it=600 train_sharpe=0.70 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=600 train_sharpe=0.54 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=650 train_sharpe=1.51 val_sharpe=0.42
+dpo seed=0 risk=1.0 it=650 train_sharpe=0.71 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=650 train_sharpe=0.55 val_sharpe=0.61
+ppo seed=0 it=260 train_sharpe=0.85 val_sharpe=0.54
+ppo seed=1 it=260 train_sharpe=0.85 val_sharpe=0.53
+ppo seed=2 it=80 train_sharpe=0.65 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=700 train_sharpe=1.57 val_sharpe=0.37
+dpo seed=0 risk=1.0 it=700 train_sharpe=0.72 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=700 train_sharpe=0.56 val_sharpe=0.61
+ppo seed=0 it=270 train_sharpe=0.86 val_sharpe=0.54
+ppo seed=1 it=270 train_sharpe=0.85 val_sharpe=0.53
+ppo seed=2 it=90 train_sharpe=0.67 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=750 train_sharpe=1.61 val_sharpe=0.35
+dpo seed=0 risk=1.0 it=750 train_sharpe=0.72 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=750 train_sharpe=0.56 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=800 train_sharpe=1.65 val_sharpe=0.32
+dpo seed=0 risk=1.0 it=800 train_sharpe=0.73 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=800 train_sharpe=0.56 val_sharpe=0.61
+ppo seed=0 it=280 train_sharpe=0.86 val_sharpe=0.53
+ppo seed=1 it=280 train_sharpe=0.86 val_sharpe=0.53
+ppo seed=2 it=100 train_sharpe=0.68 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=850 train_sharpe=1.68 val_sharpe=0.31
+dpo seed=0 risk=1.0 it=850 train_sharpe=0.73 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=850 train_sharpe=0.56 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=900 train_sharpe=1.70 val_sharpe=0.29
+dpo seed=0 risk=1.0 it=900 train_sharpe=0.73 val_sharpe=0.62
+ppo seed=0 it=290 train_sharpe=0.87 val_sharpe=0.53
+dpo seed=0 risk=1.0 it=900 train_sharpe=0.56 val_sharpe=0.61
+ppo seed=1 it=290 train_sharpe=0.87 val_sharpe=0.52
+ppo seed=2 it=110 train_sharpe=0.70 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=950 train_sharpe=1.73 val_sharpe=0.28
+dpo seed=0 risk=1.0 it=950 train_sharpe=0.73 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=950 train_sharpe=0.56 val_sharpe=0.61
+ppo seed=0 it=300 train_sharpe=0.87 val_sharpe=0.53
+ppo seed=1 it=300 train_sharpe=0.88 val_sharpe=0.52
+ppo seed=2 it=120 train_sharpe=0.70 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1000 train_sharpe=1.75 val_sharpe=0.26
+dpo seed=0 risk=1.0 it=1000 train_sharpe=0.75 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1000 train_sharpe=0.57 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1050 train_sharpe=1.77 val_sharpe=0.26
+dpo seed=0 risk=1.0 it=1050 train_sharpe=0.75 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=1050 train_sharpe=0.57 val_sharpe=0.61
+ppo seed=2 it=130 train_sharpe=0.72 val_sharpe=0.65
+dpo seed=0 risk=1.0 it=1100 train_sharpe=1.78 val_sharpe=0.24
+dpo seed=0 risk=1.0 it=1100 train_sharpe=0.77 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1100 train_sharpe=0.58 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1150 train_sharpe=1.80 val_sharpe=0.24
+dpo seed=0 risk=1.0 it=1150 train_sharpe=0.77 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1150 train_sharpe=0.58 val_sharpe=0.61
+ppo seed=2 it=140 train_sharpe=0.74 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=1200 train_sharpe=1.82 val_sharpe=0.24
+dpo seed=0 risk=1.0 it=1200 train_sharpe=0.79 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1200 train_sharpe=0.59 val_sharpe=0.61
+ppo seed=2 it=150 train_sharpe=0.75 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=1250 train_sharpe=1.83 val_sharpe=0.24
+dpo seed=0 risk=1.0 it=1250 train_sharpe=0.78 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1250 train_sharpe=0.58 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1300 train_sharpe=1.84 val_sharpe=0.22
+dpo seed=0 risk=1.0 it=1300 train_sharpe=0.79 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=1300 train_sharpe=0.58 val_sharpe=0.61
+ppo seed=2 it=160 train_sharpe=0.76 val_sharpe=0.63
+dpo seed=0 risk=1.0 it=1350 train_sharpe=1.86 val_sharpe=0.22
+dpo seed=0 risk=1.0 it=1350 train_sharpe=0.80 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1350 train_sharpe=0.59 val_sharpe=0.61
+dpo seed=0 risk=1.0 it=1400 train_sharpe=1.87 val_sharpe=0.20
+dpo seed=0 risk=1.0 it=1400 train_sharpe=0.81 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1400 train_sharpe=0.59 val_sharpe=0.61
+ppo seed=2 it=170 train_sharpe=0.76 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=1450 train_sharpe=1.88 val_sharpe=0.20
+dpo seed=0 risk=1.0 it=1450 train_sharpe=0.83 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1450 train_sharpe=0.60 val_sharpe=0.61
+ppo seed=2 it=180 train_sharpe=0.76 val_sharpe=0.64
+dpo seed=0 risk=1.0 it=1500 train_sharpe=1.89 val_sharpe=0.21
+dpo seed=0 risk=1.0 it=1500 train_sharpe=0.83 val_sharpe=0.62
+dpo seed=0 risk=1.0 it=1500 train_sharpe=0.59 val_sharpe=0.61
+ppo seed=2 it=190 train_sharpe=0.77 val_sharpe=0.64
+ppo seed=2 it=200 train_sharpe=0.79 val_sharpe=0.64
+ppo seed=2 it=210 train_sharpe=0.79 val_sharpe=0.64
+ppo seed=2 it=220 train_sharpe=0.79 val_sharpe=0.64
+ppo seed=2 it=230 train_sharpe=0.78 val_sharpe=0.63
+ppo seed=2 it=240 train_sharpe=0.78 val_sharpe=0.63
+ppo seed=2 it=250 train_sharpe=0.79 val_sharpe=0.62
+ppo seed=2 it=260 train_sharpe=0.80 val_sharpe=0.63
+ppo seed=2 it=270 train_sharpe=0.80 val_sharpe=0.62
+ppo seed=2 it=280 train_sharpe=0.81 val_sharpe=0.61
+ppo seed=2 it=290 train_sharpe=0.82 val_sharpe=0.62
+ppo seed=2 it=300 train_sharpe=0.82 val_sharpe=0.61
+done
