@@ -1,6 +1,6 @@
 # Reinforcement learning for continuous portfolio optimization
 
-This project trains a reinforcement learning agent to rebalance a 10-asset ETF portfolio every day, and benchmarks it with transaction costs against the classical strategies it is supposed to beat: mean-variance, Kelly, risk parity, 1/N and 60/40. It implements the research proposal I wrote for Wat Street ([original PDF](https://watstreet.netlify.app/researchPapers/RL_Continuous_Portfolio_Optimization.pdf)).
+This project trains a reinforcement learning agent to rebalance a 10-asset ETF portfolio every day, and benchmarks it with transaction costs against the classical strategies it is supposed to beat: mean-variance, Kelly, risk parity, 1/N and 60/40.
 
 **Short version:** under realistic costs, both RL agents land within 0.01 Sharpe of equal weighting out of sample. They *do* find signal: before costs the agent reaches a 0.71 Sharpe against 0.57 for 1/N. But exploiting that signal takes heavy trading, and 5 bps of costs is enough to erase it. The rest of this README covers how I got there, including two versions that failed.
 
